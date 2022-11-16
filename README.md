@@ -21,3 +21,17 @@ App is deployed live on netlify :
 ```
 https://eloquent-queijadas-d7bbca.netlify.app
 ```
+
+###
+
+Used React Hooks,GeoDb cities Api for longitute and latitude and OpenWeather API to get weather details
+
+GeoDB Cities API 
+```
+https://rapidapi.com/wirefreethought/api/geodb-cities
+```
+
+OpenWeather API
+```
+https://openweathermap.org/api
+```
